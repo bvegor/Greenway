@@ -1,0 +1,48 @@
+<resources>
+    <string name="app_name">Greenway</string>
+
+    <string name="bottom_home_item">Accueil</string>
+    <string name="bottom_collection_item">Carte</string>
+    <string name="bottom_add_plant_item">Procédure</string>
+
+    <!-- Page d'accueil -->
+    <string name="home_page_title">Vélos a recharger</string>
+    <string name="home_page_last_plant_section">Flotte de vélos</string>
+
+    <!-- Page de collection -->
+    <string name="collection_page_title">Vélos a recharger</string>
+
+    <!-- Page procedure -->
+    <string name="add_plant_page_title">Commencer la procédure</string>
+    <string name="add_plant_page_upload_button">Connexion WIFI</string>
+    <string name="add_plant_page_alarm_button">Actionner l\' alarme</string>
+    <string name="add_plant_page_unlock_button">Déverrouiller Batterie</string>
+    <string name="add_plant_page_lock_button">Verrouiller la batterie</string>
+    <string name="add_plant_page_battery_input">Identifiant batterie</string>
+
+
+    <string-array name="add_plant_page_bike_spinner_input">
+        <item>ID: 001</item>
+        <item>ID: 002</item>
+        <item>ID: 003</item>
+    </string-array>
+
+
+    <string name="add_plant_page_confirm_button">Confirmer</string>
+
+    <!-- Fenetre Popup de details -->
+    <string name="popup_velo_name">Nom Vélo</string>
+    <string name="popup_velo_description_title">Numéro de série Batterie</string>
+    <string name="popup_velo_description_subtitle">RandomNumBat</string>
+
+    <string name="popup_plant_grow_title">Pourcentage Batterie</string>
+    <string name="popup_velo_subtitle">Lente</string>
+
+    <string name="popup_plant_water_title">Localisation</string>
+    <string name="popup_bike_subtitle">Faible</string>
+
+    <!-- Plante customise -->
+    <string name="item_plant_name">Nom de la plante</string>
+    <string name="item_plant_description">Description de la plante</string>
+    <string name="title_activity_maps">MapsActivity</string>
+</resources>

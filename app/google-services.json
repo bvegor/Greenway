@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "1048818566201",
+    "firebase_url": "https://greenwaywork-d6975-default-rtdb.firebaseio.com",
+    "project_id": "greenwaywork-d6975",
+    "storage_bucket": "greenwaywork-d6975.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1048818566201:android:5267494aba94c691feb9e8",
+        "android_client_info": {
+          "package_name": "fr.Egor.greenwaywork"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1048818566201-qohbc806dfa04on04hoki2o278glspin.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBTLhs_4ATdBFsaNxtMnsTwdrwBcEy9bzE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1048818566201-qohbc806dfa04on04hoki2o278glspin.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent">
+
+    <androidx.recyclerview.widget.RecyclerView
+        android:id="@+id/collection_recycler_list"
+        android:layout_width="match_parent"
+        android:layout_height="511dp"
+        android:layout_marginLeft="@dimen/default_margin" />
+
+
+    <Button
+        android:id="@+id/maps_button"
+        android:layout_width="match_parent"
+        android:layout_height="60dp"
+        android:layout_marginLeft="@dimen/default_margin"
+        android:layout_marginTop="@dimen/default_margin"
+        android:layout_marginRight="@dimen/default_margin"
+        android:background="@color/darkGray"
+        android:text="ouvrir google maps"
+        android:textColor="@color/white"
+        android:textSize="24dp" />
+
+
+</LinearLayout>
