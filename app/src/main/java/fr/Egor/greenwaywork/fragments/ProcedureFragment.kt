@@ -38,7 +38,7 @@ class ProcedureFragment(private val context: MainActivity) : Fragment() {
         val editText = view.findViewById<EditText>(R.id.description_input)
         val confirmerButton = view.findViewById<Button>(R.id.confirm_button)
         confirmerButton?.setOnClickListener {
-            val idBat = editText?.text.toString()
+             idBat = editText?.text.toString()
             println(": $idBat")
             val reference = database.getReference("velos/velo1/")
             reference.child("idBat").setValue(idBat)
