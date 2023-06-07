@@ -16,4 +16,4 @@ This application interacts with an API in HTTP, a Firebase Realtime database and
 </div>
 
 ## Support
-For support, email bvegorpro@gmail.com
+For support, bvegorpro@gmail.com
