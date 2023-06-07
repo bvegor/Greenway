@@ -17,3 +17,7 @@ This application interacts with an API in HTTP, a Firebase Realtime database and
 
 ## Support
 For support, bvegorpro@gmail.com
+
+# 📊 GitHub Stats:
+![](https://github-readme-streak-stats.herokuapp.com/?user=bvegor&theme=dark&hide_border=false)
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=bvegor&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
