@@ -15,8 +15,4 @@ This application interacts with an API, a Firebase Realtime database and an ESP3
   <img width="245" height="520" src=https://github.com/bvegor/Greenway/assets/133373315/a5297d07-218c-467d-b580-55c22f094bef>
 </div>
 
-## Support
-For support, bvegorpro@gmail.com
 
-# 📊 GitHub Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=bvegor&theme=dark&hide_border=false)
